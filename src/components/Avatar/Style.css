@@ -1,0 +1,7 @@
+.Avatar-wrapper{
+    display: inline-block;
+    border: 3px solid #ddd;
+}
+.Avatar-wrapper img{
+    width: 120px;
+}

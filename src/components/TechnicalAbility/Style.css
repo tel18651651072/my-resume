@@ -1,0 +1,20 @@
+.TechnicalAbility-wrapper{
+    padding: 0 40px 20px;
+}
+.title{
+    text-align:left;
+    font-size: 16px;
+    margin-top:0;
+}
+.tech-content{
+
+}
+.tech-content .tech-performance p {
+    height: 10px;
+    background: #fff;
+    border-radius: 5px;
+    margin:0;
+}
+.tech-content .tech-header{
+    margin-bottom: 5px;
+}

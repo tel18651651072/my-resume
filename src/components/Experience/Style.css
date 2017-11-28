@@ -1,0 +1,14 @@
+.Experience-summary{
+    display: flex;
+    padding: 10px;
+}
+.Experience-summary span{
+    flex: 1;
+}
+.Experience-detail{
+    padding: 0 10px 10px 20px;
+}
+.Experience-detail div{
+    text-align: left;
+    font-size: 13px;
+}

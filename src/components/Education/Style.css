@@ -1,0 +1,11 @@
+.Education-wrapper{
+
+}
+.Education-content{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.Education-content span{
+    flex: 1;
+}

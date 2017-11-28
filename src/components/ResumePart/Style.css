@@ -1,0 +1,7 @@
+.ResumePart-wrapper{
+    width: 850px;
+    margin: auto;
+    background: #eee;
+    padding: 5px;
+    display: flex;
+}

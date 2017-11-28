@@ -1,0 +1,19 @@
+.PersonalInfo-wrapper{
+    padding: 20px 40px;
+    font-size: 14px;
+}
+.line{
+    text-align: left;
+    margin-bottom: 5px;
+}
+.text{
+    padding-left:6px;
+}
+.title .revise-btn{
+    float: right;
+    opacity: 0;
+    cursor: pointer;
+}
+.title:hover .revise-btn{
+    opacity: .8;
+}

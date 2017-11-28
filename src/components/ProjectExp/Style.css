@@ -1,0 +1,46 @@
+.PrejectExp-content{
+
+}
+.PrejectExp-content .PrejectExp-summary{
+    display: flex;
+    padding: 10px;
+}
+.PrejectExp-content .PrejectExp-summary span{
+    flex:1;
+}
+.PrejectExp-content .detail{
+    font-size: 13px;
+    text-align: left;
+    padding: 0 10px 10px 20px;
+}
+.PrejectExp-content .detail .theMore {
+    color: red;
+    display: inline-block;
+    cursor: pointer;
+    margin-left:5px;
+    padding: 5px;
+}
+.PrejectExp-wrapper .AlertShow {
+    display: block;
+}
+.PrejectExp-wrapper .innerContainer{
+    width: 573px;
+    height: 100%;
+    margin: 62px auto 0;
+    padding-left: 277px;
+}
+.PrejectExp-wrapper .innerContent{
+    width: 100%;
+    height:100%;
+    border: 1px solid #ddd;
+    position: relative;
+    background: #fff;
+    padding-top: 8px;
+}
+.goBack{
+    position: absolute;
+    right: 5px;
+    top: 8px;
+    padding: 3px;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.jobIntension-content{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.jobIntension-content span{
+    flex:1;
+}

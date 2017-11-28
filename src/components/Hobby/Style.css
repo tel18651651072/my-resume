@@ -1,0 +1,23 @@
+.Hobby-wrapper{
+    padding: 0 40px 20px;
+}
+.hobby-grid{
+    display: grid;
+    grid-template-columns:30% 30%;
+    grid-template-rows:50% 50%;
+    grid-gap: 10px 40px;
+}
+.hobby-gridItem{
+    padding: 10px;
+    border:.5px solid #efefef;
+    border-radius: 6px;
+}
+.hobby-gridItem i {
+    font-size: 28px;
+}
+.hobby-gridItem:hover i{
+    color: red;
+}
+.hobby-gridItem+span{
+    font-size: 12px;
+}
